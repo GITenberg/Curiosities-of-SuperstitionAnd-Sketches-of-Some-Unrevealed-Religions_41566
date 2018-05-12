@@ -1,0 +1,42 @@
+_repo: Curiosities-of-SuperstitionAnd-Sketches-of-Some-Unrevealed-Religions_41566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41566-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, William Henry Davenport
+    - Adams, W.H.
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+description: ''
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41566'
+  lccn: '17016017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Superstition'
+- !lcsh 'Religions'
+- !lcsh 'Folklore'
+tableOfContents: 'Buddhism, its origin and ceremonies -- Magianism: the Parsees --
+  Jewish superstitions -- Brahmanism -- Hindu mythology, and the Vishnu Purana --
+  In China: Confucianism, Taouism, and Buddhism -- Among the Malays, the Slamatan
+  Bromok, the Dyaks, the Papuan tribes, the Ahetas -- The savage races of Asia: the
+  Samojedes; the Mongols; the Ostiaks; in Tibet -- Some African superstitions -- The
+  Zulu witch-finders -- Zabianism and serpent-worship -- Polynesian superstitions
+  -- The Fiji islanders -- The religion of the Maories -- The North American Indians
+  -- Among the Eskimos -- A mediæval superstition: the flagellants -- Scottish superstitions:
+  Halloween -- Second sight; divination; universality of certain superstitions; fairies
+  in Scotland.'
+title: Curiosities of Superstition, and Sketches of Some Unrevealed Religions
+url: http://www.gutenberg.org/ebooks/41566
